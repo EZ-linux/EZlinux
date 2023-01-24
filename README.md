@@ -1,2 +1,2 @@
 # EZlinux
-Make Linux more usable
+ whenever and wherever possible and explode not without reason
